@@ -1,0 +1,1 @@
+1. Execute the test cases by using freestyle project 
